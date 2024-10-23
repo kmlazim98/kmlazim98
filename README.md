@@ -20,12 +20,12 @@ I am a dedicated and results-oriented System and Network Engineer with three yea
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | Splunk Implmentation and integration|
-| Network Traffic Monitoring and Attack Detection | Network Topology Implementation|
-| Linux Administration         |Implemetation Different apps in linux distro|
+| SIEM Implementation and Log Analysis          | Splunk Home Lab |
+| Network Traffic Monitoring and Attack Detection | EVE-NG Lab|
+| Linux Administration         |Nagios,ngnix,containiroation|
 | Incident Response Planning and Execution      | SOC Automation Lab|
 | Case Management with TheHive                  | SOC Automation Lab|
-| Data Science and machine Learning | Data Analysis |
+| Data Science and machine Learning | Assignmets|
 
 ## Tools
 
