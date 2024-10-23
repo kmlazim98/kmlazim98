@@ -33,7 +33,7 @@ I am a dedicated and results-oriented System and Network Engineer with three yea
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" alt="Wireshark Badge" />
      <img src="https://www.credly.com/badges/6608fee6-daae-4a69-82e7-fcf6875dbc8e/public_url" alt="Fortinet Badge" />
-     <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="6608fee6-daae-4a69-82e7-fcf6875dbc8e" data-share-badge-host="https://www.credly.com"></div>
+    
    
 </div>
 
@@ -56,8 +56,8 @@ I am a dedicated and results-oriented System and Network Engineer with three yea
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
+[![Your Badge](https://images.credly.com/size/220x220/images/6608fee6-daae-4a69-82e7-fcf6875dbc8e/your-badge-image.png)](https://www.credly.com/badges/6608fee6-daae-4a69-82e7-fcf6875dbc8e)
+
 </div>
 
 ## Projects
