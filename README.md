@@ -7,8 +7,8 @@ I am a dedicated and results-oriented System and Network Engineer with three yea
 ## Professional Skills
 
 - **Network Administration & Security**: Expertise in firewall management, switching protocols, and network monitoring tools like Nagios.
-- **Linux & Windows Administration**: Managing AD, DNS, DHCP, and cloud mailboxes.
-- **Cloud Platforms**: Skilled in Google Cloud managementm Azure and AWS
+- **Linux & Windows Administration**: Managing AD, DNS, DHCP, Application Servers
+- **Cloud Platforms**: Skilled in Google Cloud, Azure and AWS
 - **Automation Tools**: Experience with Python for automation tasks.
 - **Cybersecurity**: Fortinet firewall management and strong knowledge of cybersecurity tools.
 - **Virtualization**: Familiarity with virtualization technologies to manage multiple projects efficiently.
