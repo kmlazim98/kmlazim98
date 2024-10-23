@@ -32,7 +32,8 @@ I am a dedicated and results-oriented System and Network Engineer with three yea
  ### Network
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" alt="Wireshark Badge" />
-    <img src="<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="6608fee6-daae-4a69-82e7-fcf6875dbc8e" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>" />
+     <img src="https://www.credly.com/badges/6608fee6-daae-4a69-82e7-fcf6875dbc8e/public_url" alt="Fortinet Badge" />
+   
 </div>
 
    
