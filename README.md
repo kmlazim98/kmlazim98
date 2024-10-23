@@ -37,13 +37,11 @@ I am a dedicated and results-oriented System and Network Engineer with three yea
    
 </div>
 
-   
-</div>
-
 ### Endpoint
 <div>
     <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
     <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
+    <img src="https://img.shields.io/badge/SYMANTEC_ENDPONIT_PROCTECTION_MANAGER-yellow"/>
 </div>
 
 ### SIEM
