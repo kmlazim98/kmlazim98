@@ -32,7 +32,7 @@ I am a dedicated and results-oriented System and Network Engineer with three yea
  ### Network
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" alt="Wireshark Badge" />
-    <img src="https://nmap.org/images/nmap-logo-256x128.png" alt="Nmap" width="200" height="50" />
+    <img src="https://nmap.org/images/nmap-logo-256x128.png" alt="Nmap" width="200" height="100" />
 </div>
 
    
