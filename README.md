@@ -1,5 +1,5 @@
 # Hello, I'm Lazim Mohammmed
-<a href="https://www.linkedin.com/in/lazim-mohammed-k-m-123456789"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/kmlazim98/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 I am a dedicated and results-oriented System and Network Engineer with three years of hands-on experience, I specialize in ensuring the seamless operation of IT infrastructures while prioritizing robust cybersecurity measures. My expertise in Google Cloud, Linux, windows and Splunk, combined with my strong problem-solving skills, enables me to effectively optimize system and network performance and safeguard against emerging threats
 
