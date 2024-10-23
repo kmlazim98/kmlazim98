@@ -29,10 +29,12 @@ I am a dedicated and results-oriented System and Network Engineer with three yea
 
 ## Tools
 
-### Network
+    ### Network
 <div>
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://cisoclub.ru/_ipx/f_webp,q_99/wp-content/uploads/maxresdefault-47-640x360.jpg" />
+    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" alt="Wireshark Badge" />
+    <img src="https://cisoclub.ru/_ipx/f_webp,q_99/wp-content/uploads/maxresdefault-47-640x360.jpg" alt="Network Diagram" width="400" height="225" />
+</div>
+
    
 </div>
 
