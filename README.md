@@ -32,7 +32,7 @@ I am a dedicated and results-oriented System and Network Engineer with three yea
 ### Network
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
+    <img src="https://cisoclub.ru/_ipx/f_webp,q_99/wp-content/uploads/maxresdefault-47-640x360.jpg" />
    
 </div>
 
