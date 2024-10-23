@@ -1,14 +1,20 @@
 # Hello, I'm Lazim Mohammmed
-<a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/lazim-mohammed-k-m-123456789"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-[Brief Introduction - Remove this afterwards]
+I am a dedicated and results-oriented System and Network Engineer with three years of hands-on experience, I specialize in ensuring the seamless operation of IT infrastructures while prioritizing robust cybersecurity measures. My expertise in Google Cloud, Linux, windows and Splunk, combined with my strong problem-solving skills, enables me to effectively optimize system and network performance and safeguard against emerging threats
 
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
 
-## Objective
-[Provide Objective - Remove this afterwards]]
+## Professional Skills
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+- **Network Administration & Security**: Expertise in firewall management, switching protocols, and network monitoring tools like Nagios.
+- **Linux & Windows Administration**: Managing AD, DNS, DHCP, and cloud mailboxes.
+- **Cloud Platforms**: Skilled in Google Cloud managementm Azure and AWS
+- **Automation Tools**: Experience with Python for automation tasks.
+- **Cybersecurity**: Fortinet firewall management and strong knowledge of cybersecurity tools.
+- **Virtualization**: Familiarity with virtualization technologies to manage multiple projects efficiently.
+
+---
+
 
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
