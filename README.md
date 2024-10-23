@@ -20,12 +20,12 @@ I am a dedicated and results-oriented System and Network Engineer with three yea
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | ping your Projects repository|
-| Network Traffic Monitoring and Attack Detection | ping your Projects repository|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
+| SIEM Implementation and Log Analysis          | Splunk Implmentation and integration|
+| Network Traffic Monitoring and Attack Detection | Network Topology Implementation|
+| Linux Administration         |Implemetation Different apps in linux distro|
 | Incident Response Planning and Execution      | SOC Automation Lab|
 | Case Management with TheHive                  | SOC Automation Lab|
-| Data Science and machine Learning | Data Science Projects |
+| Data Science and machine Learning | Data Analysis |
 
 ## Tools
 
@@ -61,3 +61,4 @@ I am a dedicated and results-oriented System and Network Engineer with three yea
 ## Projects
 - Detection Lab
 - SOC Automation Project
+- Sandbox
