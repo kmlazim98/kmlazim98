@@ -36,7 +36,9 @@ I am a dedicated and results-oriented System and Network Engineer with three yea
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" alt="Wireshark Badge" />
     <img src="https://img.shields.io/badge/-Fortinet_Certified_Associate-FF5733?&style=for-the-badge&logo=Fortinet&logoColor=white" />
+    
 </div>
+
 
 ### Endpoint
 <div>
@@ -56,11 +58,12 @@ I am a dedicated and results-oriented System and Network Engineer with three yea
 ## Certifications
 
 <div>
-    <img src="https://img.shields.io/badge/Cisco_Certified_Network_Associate-black" />
-    <img src="https://img.shields.io/badge/Cisco_Certified_Ethical_Hacker-red" />
-    <img src="https://img.shields.io/badge/Fortinet_Certified_Fundamentals-blue" />
-    <img src="https://img.shields.io/badge/Certified_Cyber_Security_Professional-red" />
+    <img src="https://img.shields.io/badge/-Cisco_Certified_Network_Associate-005073?&style=for-the-badge&logo=Cisco&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Cisco_Certified_Ethical_Hacker-FF0000?&style=for-the-badge&logo=Cisco&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Fortinet_Certified_Fundamentals-007BFF?&style=for-the-badge&logo=Fortinet&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Certified_Cyber_Security_Professional-FF5733?&style=for-the-badge&logo=Cybersecurity&logoColor=white" />
 </div>
+
 ---
 
 ## Recent Certifications
