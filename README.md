@@ -34,23 +34,19 @@ I am a dedicated and results-oriented System and Network Engineer with three yea
 
 ### Network
 <div>
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" alt="Wireshark Badge" />
-    <img src="https://img.shields.io/badge/-Fortinet_Certified_Associate-FF5733?&style=for-the-badge&logo=Fortinet&logoColor=white" />
-    
+    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=flat-square&logo=Wireshark&logoColor=white" alt="Wireshark Badge" />
+    <img src="https://img.shields.io/badge/-Fortinet_Certified_Associate-FF5733?&style=flat-square&logo=Fortinet&logoColor=white" />
 </div>
-
 
 ### Endpoint
 <div>
-    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Symantec_Endpoint_Protection_Manager-FFD700?&style=for-the-badge&logo=Symantec&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=flat-square&logo=Microsoft&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Symantec_Endpoint_Protection_Manager-FFD700?&style=flat-square&logo=Symantec&logoColor=white" />
 </div>
-
 
 ### SIEM
 <div>
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Splunk-000000?&style=flat-square&logo=Splunk&logoColor=white" />
 </div>
 
 ---
@@ -58,10 +54,10 @@ I am a dedicated and results-oriented System and Network Engineer with three yea
 ## Certifications
 
 <div>
-    <img src="https://img.shields.io/badge/-Cisco_Certified_Network_Associate-005073?&style=for-the-badge&logo=Cisco&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Cisco_Certified_Ethical_Hacker-FF0000?&style=for-the-badge&logo=Cisco&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Fortinet_Certified_Fundamentals-007BFF?&style=for-the-badge&logo=Fortinet&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Certified_Cyber_Security_Professional-FF5733?&style=for-the-badge&logo=Cybersecurity&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Cisco_Certified_Network_Associate-005073?&style=flat-square&logo=Cisco&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Cisco_Certified_Ethical_Hacker-FF0000?&style=flat-square&logo=Cisco&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Fortinet_Certified_Fundamentals-007BFF?&style=flat-square&logo=Fortinet&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Certified_Cyber_Security_Professional-FF5733?&style=flat-square&logo=Cybersecurity&logoColor=white" />
 </div>
 
 ---
