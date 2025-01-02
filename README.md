@@ -2,9 +2,7 @@
 
 <a href="https://www.linkedin.com/in/kmlazim98/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I am a dedicated and results-oriented System and Network Engineer with three years of hands-on experience. I specialize in ensuring the seamless operation of IT infrastructures while prioritizing robust cybersecurity measures. My expertise in Google Cloud, Linux, Windows, and Splunk, combined with my strong problem-solving skills, enables me to effectively optimize system and network performance and safeguard against emerging threats.
-
----
+I am a dedicated and results-oriented Cybersecurity Engineer with three years of hands-on experience. I specialize in securing IT infrastructures and monitoring threats to ensure robust cybersecurity measures. My expertise in Google Cloud, Linux, Windows, and Splunk, combined with strong analytical and problem-solving skills, enables me to optimize system performance, monitor, detect, and respond to emerging threats effectively.
 
 ## Professional Skills
 
@@ -13,6 +11,7 @@ I am a dedicated and results-oriented System and Network Engineer with three yea
 - **Cloud Platforms**: Skilled in Google Cloud, Azure, and AWS.
 - **Automation Tools**: Experience with Python for automation tasks.
 - **Cybersecurity**: Fortinet firewall management and strong knowledge of cybersecurity tools.
+- **Phishing Investigation**: Investigating phishing emails and implementing remediation actions, including blocking domains, IPs, URLs, wildcard entries, and security hardening.
 - **Virtualization**: Familiarity with virtualization technologies to manage multiple projects efficiently.
 
 ---
@@ -26,8 +25,9 @@ I am a dedicated and results-oriented System and Network Engineer with three yea
 | Linux Administration                          | Nagios, Nginx Implementation|
 | Incident Response Planning and Execution      | Cybersecurity LAB          |
 | Case Management with TheHive                  | Cybersecurity LAB          |
-| Vulnearaility Assessment                  | Bug hunting          |
+| Vulnerability Assessment                      | Bug Hunting                |
 | Data Science and Machine Learning             | Assignments                 |
+| Phishing Email Investigation                  | Incident Response          |
 
 ---
 
@@ -94,14 +94,5 @@ I am a dedicated and results-oriented System and Network Engineer with three yea
 
 ---
 
-
- 
-
-
- 
-
-</div>
-
 ## Projects
-
 
