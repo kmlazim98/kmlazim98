@@ -38,8 +38,8 @@ I am a dedicated and results-oriented System and Network Engineer with three yea
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=flat-square&logo=Wireshark&logoColor=white" alt="Wireshark Badge" />
     <img src="https://img.shields.io/badge/-Fortinet_Certified_Associate-FF5733?&style=flat-square&logo=Fortinet&logoColor=white" />
     <img src="https://img.shields.io/badge/-Nmap-4682B4?&style=flat-square&logo=Nmap&logoColor=white" alt="Nmap Badge" />
+    <img src="https://img.shields.io/badge/-Burp_Suite-FF4500?&style=flat-square&logo=BurpSuite&logoColor=white" alt="Burp Suite Badge" />
 </div>
-
 
 ### Endpoint
 <div>
