@@ -24,8 +24,9 @@ I am a dedicated and results-oriented System and Network Engineer with three yea
 | SIEM Administration and Log Analysis          | Splunk Implementation       |
 | Network Traffic Monitoring and Attack Detection | EVE-NG                     |
 | Linux Administration                          | Nagios, Nginx Implementation|
-| Incident Response Planning and Execution      | SOC Automation Lab          |
-| Case Management with TheHive                  | SOC Automation Lab          |
+| Incident Response Planning and Execution      | Cybersecurity LAB          |
+| Case Management with TheHive                  | Cybersecurity LAB          |
+| Vulnearaility Assessment                  | Bug hunting          |
 | Data Science and Machine Learning             | Assignments                 |
 
 ---
