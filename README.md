@@ -2,7 +2,7 @@
 
 <a href="https://www.linkedin.com/in/kmlazim98/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I am a dedicated and results-oriented Cybersecurity Engineer with three years of hands-on experience. I specialize in securing IT infrastructures and monitoring threats to ensure robust cybersecurity measures. My expertise in Google Cloud, Linux, Windows, and Splunk, combined with strong analytical and problem-solving skills, enables me to optimize system performance, monitor, detect, and respond to emerging threats effectively.
+I am a dedicated and results-oriented Cybersecurity Engineer with three years of hands-on experience. I specialize in securing IT infrastructures and monitoring threats to ensure robust cybersecurity measures. My expertise in Google Cloud,AWS ,Azure , Linux, Windows, and Splunk, combined with strong analytical and problem-solving skills, enables me to optimize system performance, monitor, detect, and respond to emerging threats effectively.
 
 ## Professional Skills
 
