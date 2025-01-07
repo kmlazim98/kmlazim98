@@ -20,14 +20,14 @@ I am a dedicated and results-oriented Cybersecurity Engineer with three years of
 
 | Skill                                         | Associated Project          |
 |-----------------------------------------------|-----------------------------|
-| SIEM Administration and Log Analysis          | Splunk Implementation       |
-| Network Traffic Monitoring and Attack Detection | EVE-NG                     |
-| Linux Administration                          | Nagios, Nginx Implementation|
-| Incident Response Planning and Execution      | Cybersecurity LAB          |
-| Cloud Computing (AWS, Azure, GCP)             | Gained practical expertise by architecting and managing cloud resources across AWS, Azure, and GCP environments.         |
-| Vulnerability Assessment                      | Bug Hunting                |
-| Data Science and Machine Learning             | Assignments                 |
-| Phishing Email Investigation                  | Incident Response          |
+| SIEM Administration and Log Analysis          | Designed and implemented SIEM solutions using Splunk, integrating multi-source log data for real-time monitoring and threat detection. |
+| Network Traffic Monitoring and Attack Detection | Built and managed virtualized network environments in EVE-NG to simulate, monitor, and analyze network traffic patterns.|
+| Linux Administration                          | Deployed and configured enterprise tools like Nagios for server monitoring, and Nginx for web application hosting.|
+| Incident Response Planning and Execution      | Conducted mock incident response scenarios in a cybersecurity lab, emphasizing containment and recovery strategies.   |
+| Cloud Computing (AWS, Azure, GCP)             | Gained practical expertise by architecting and managing cloud resources across AWS, Azure, and GCP environments.   |
+| Vulnerability Assessment                      | Conducted systematic vulnerability assessments and penetration testing as part of ethical hacking projects.   |
+| Data Science and Machine Learning             | Developed predictive models and data analysis pipelines for academic assignments and applied cybersecurity research.   |
+| Phishing Email Investigation                  | Investigated phishing incidents as part of incident response activities, identifying and mitigating threats.          |
 
 ---
 
