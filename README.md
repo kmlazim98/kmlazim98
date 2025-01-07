@@ -24,7 +24,7 @@ I am a dedicated and results-oriented Cybersecurity Engineer with three years of
 | Network Traffic Monitoring and Attack Detection | EVE-NG                     |
 | Linux Administration                          | Nagios, Nginx Implementation|
 | Incident Response Planning and Execution      | Cybersecurity LAB          |
-| Case Management with TheHive                  | Cybersecurity LAB          |
+| Cloud Computing (AWS, Azure, GCP)             | Gained practical expertise by architecting and managing cloud resources across AWS, Azure, and GCP environments.         |
 | Vulnerability Assessment                      | Bug Hunting                |
 | Data Science and Machine Learning             | Assignments                 |
 | Phishing Email Investigation                  | Incident Response          |
