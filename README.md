@@ -26,7 +26,7 @@ I am a dedicated and results-oriented Cybersecurity Engineer with three years of
 | Incident Response Planning and Execution      | Conducted mock incident response scenarios in a cybersecurity lab, emphasizing containment and recovery strategies.   |
 | Cloud Computing (AWS, Azure, GCP)             | Gained practical expertise by architecting and managing cloud resources across AWS, Azure, and GCP environments.   |
 | Vulnerability Assessment                      | Conducted systematic vulnerability assessments and penetration testing as part of ethical hacking projects.   |
-| Data Science and Machine Learning             | Developed predictive models and data analysis pipelines for academic assignments and applied cybersecurity research.   |
+| Data Science and Machine Learning             | Developed predictive models and data analysis pipelines for academic assignments and applied cybersecurity research. [GitHub Repo](https://github.com/kmlazim98/Text-Mining-Musk.git)  |
 | Phishing Email Investigation                  | Investigated phishing incidents as part of incident response activities, identifying and mitigating threats.          |
 
 ---
