@@ -2,7 +2,9 @@
 
 <a href="https://www.linkedin.com/in/kmlazim98/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I am a dedicated and results-oriented Cybersecurity Engineer with three years of hands-on experience. I specialize in securing IT infrastructures and monitoring threats to ensure robust cybersecurity measures. My expertise in Google Cloud,AWS ,Azure , Linux, Windows, and Splunk, combined with strong analytical and problem-solving skills, enables me to optimize system performance, monitor, detect, and respond to emerging threats effectively.
+I am a dedicated and results-oriented Cybersecurity Engineer with three years of hands-on experience. I specialize in securing IT infrastructures and monitoring threats to ensure robust cybersecurity measures. My expertise in Google Cloud, AWS, Azure, Linux, Windows, and Splunk, combined with strong analytical and problem-solving skills, enables me to optimize system performance, monitor, detect, and respond to emerging threats effectively.
+
+---
 
 ## Professional Skills
 
@@ -94,5 +96,21 @@ I am a dedicated and results-oriented Cybersecurity Engineer with three years of
 
 ---
 
+## Google Cloud Skill Badges
+
+- **Perform Foundational Infrastructure Tasks in Google Cloud**  
+  [![Badge](https://img.shields.io/badge/View_Badge-Perform_Foundational_Infrastructure_Tasks_in_Google_Cloud-blue)](https://www.cloudskillsboost.google/public_profiles/812529f6-80b4-4227-a704-6d7c66a6daba/badges/13575350)  
+  _Issued Jan 2025_  
+  Skills: Compute Engine, Cloud Storage, Networking, IAM, and Deployment Manager.
+
+- **Set Up and Configure a Cloud Environment in Google Cloud**  
+  [![Badge](https://img.shields.io/badge/View_Badge-Set_Up_and_Configure_a_Cloud_Environment_in_Google_Cloud-blue)](https://www.cloudskillsboost.google/public_profiles/812529f6-80b4-4227-a704-6d7c66a6daba/badges/13533756)  
+  _Issued Jan 2025_  
+  Skills: Cloud Resource Management, Networking, Monitoring, Logging, and Billing.
+
+---
+
 ## Projects
 
+- **[Data Science Projects](https://github.com/kmlazim98/Text-Mining-Musk.git)**  
+  Focus: Predictive models and data analysis pipelines for applied cybersecurity research.
